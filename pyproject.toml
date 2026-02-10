@@ -1,0 +1,7 @@
+[project]
+name = "bosch-project"
+version = "0.1.0"
+description = "Acquisition and time-domain analysis of accelerometer and gyroscope data collected using a smartphone and the phyphox application."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
