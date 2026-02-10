@@ -19,7 +19,6 @@ This project documents a complete workflow for collecting, organizing, analyzing
 ```
 phyphox-sensor-analysis/
 ├─ data/
-│  ├─ static/               # Provided example exports
 │  ├─ raw/
 │  │  ├─ low_noise/
 │  │  ├─ charging/
